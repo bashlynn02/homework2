@@ -1,7 +1,7 @@
 # bashlynn02.github.io
 Homework 2: Github Page
 
-Ashlynn Basnight
+Ashlynn Basnight 
 
 1/25/23
 ![Hw2PNG](https://user-images.githubusercontent.com/122315744/214758694-cafc585b-b542-4c54-b3e4-a4b71fadf7de.png)
